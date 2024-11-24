@@ -1,2 +1,2 @@
-# Pyhton_Projects
+# Python_Projects
 Twitter Sentimental Analysis
